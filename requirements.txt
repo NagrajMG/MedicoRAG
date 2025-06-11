@@ -1,0 +1,10 @@
+groq
+streamlit
+python-dotenv
+PyPDF2
+langchain
+langchain_groq
+nltk
+scikit-learn
+rank-bm25
+-e .

@@ -1,0 +1,19 @@
+# Virtual environments
+env/
+
+# VSCode and PyCharm
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.env
+*.sqlite3
+.DS_Store
+nltk_data/
+*.log
+
+package.json
