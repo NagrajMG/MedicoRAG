@@ -2,7 +2,7 @@
 
 A lightweight Retrieval-Augmented Generation (RAG) system that allows you to **upload medical PDFs**, process them, and **ask questions** using a **hybrid TF-IDF + BM25** retrieval and a **Groq-hosted LLM (Qwen-32B)**.
 
----
+
 
 ## Features
 
@@ -13,7 +13,7 @@ A lightweight Retrieval-Augmented Generation (RAG) system that allows you to **u
 - Built with a responsive Streamlit UI
 - Start/Stop app control panel
 
----
+
 
 ## How It Works
 
@@ -53,7 +53,7 @@ or
 ```bash
 streamlit run main.py
 ```
-
+---
 ## License
 MIT License
 
